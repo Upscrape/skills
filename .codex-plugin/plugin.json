@@ -1,0 +1,11 @@
+{
+  "name": "upscrape-skills",
+  "displayName": "Upscrape Skills",
+  "description": "Instagram competitor tracking for AI agents: daily snapshots of any public accounts, turned into a clean single-file dashboard. Data by Upscrape.",
+  "version": "0.2.0",
+  "skills": "./skills/",
+  "author": {"name": "Upscrape", "url": "https://upscrape.com"},
+  "homepage": "https://upscrape.com",
+  "license": "MIT",
+  "keywords": ["upscrape", "instagram", "competitor-tracking", "social-media", "dashboard", "analytics"]
+}

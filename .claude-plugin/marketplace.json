@@ -1,0 +1,5 @@
+{
+  "name": "upscrape-skills",
+  "owner": {"name": "Upscrape", "email": "founders@upscrape.com"},
+  "plugins": [{"name": "upscrape-skills", "source": "./", "description": "Instagram competitor tracking for AI agents: daily snapshots of any public accounts, turned into a clean single-file dashboard. Data by Upscrape."}]
+}
