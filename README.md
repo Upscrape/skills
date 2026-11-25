@@ -25,13 +25,15 @@ Or copy `skills/instagram-competitor-tracker` into your agent's skills folder.
 
 Set `UPSCRAPE_API_KEY`, or connect the Upscrape MCP server (`https://data.upscrape.com/mcp`). Then ask your agent:
 
-> Track @glossier, @rarebeauty and @fentybeauty on Instagram. I'm @glossier.
+> Track @glossier, @rarebeauty and @fentybeauty on Instagram.
+
+If one of the accounts is yours, say so and it gets marked "You".
 
 Each account costs 5 credits a run. Failed calls are free. The agent shows you the cost before the first run.
 
 ### Run it daily and brand it
 
-> Run this every day, and brand it for my client Glossier with our logo.
+> Run this every day, and brand it for my client Acme Beauty with our agency's logo.
 
 The agent sets up a daily GitHub Actions run, so history keeps building while your computer is off (use a private repo), and puts your agency's name, logo and colour on the report.
 

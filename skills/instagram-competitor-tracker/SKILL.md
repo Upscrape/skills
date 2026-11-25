@@ -85,7 +85,7 @@ Offer these only after the first dashboard, in one line each.
 **Agency branding.** For reports sent to clients:
 
 ```bash
-python3 scripts/track.py brand --client "Glossier" --name "Northwind Social" --logo logo.png --accent "#1A56DB"
+python3 scripts/track.py brand --client "Acme Beauty" --name "Your Agency" --logo logo.png --accent "#1A56DB"
 python3 scripts/track.py build
 ```
 
